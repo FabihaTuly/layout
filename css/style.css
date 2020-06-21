@@ -1,0 +1,23 @@
+.header{
+	background-color: navy;
+	min-height: 80px;
+	/*border: 5px solid black;*/
+}
+.wrapper{
+    overflow: hidden;
+    border: 5px solid black;
+}
+
+.contact{
+	border: 2px solid black;
+	background-color: maroon;
+	min-height: 150px;
+	width: 30%;
+	float: left;
+	margin: 20px 20px;
+}
+.footer{
+	background-color: purple;
+	min-height: 80px;
+	/*border: 5px solid black;*/
+}
